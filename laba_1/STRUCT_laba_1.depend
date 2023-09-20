@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695195871 source:c:\users\)\documents\1_laba\struct_laba_1\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+

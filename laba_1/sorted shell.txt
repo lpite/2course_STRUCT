@@ -1,0 +1,12 @@
+2 0 2 2 3 5 
+2 2 5 3 5 18 
+9 5 6 4 26 20 
+11 5 6 14 27 23 
+16 15 17 27 27 27 
+31 16 20 28 28 28 
+
+count of swaps 38
+count of compares 38
+
+count of swaps 38
+count of compares 38
